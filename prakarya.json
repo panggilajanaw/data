@@ -3,5 +3,10 @@
     "key": "MONOLOG-00",
     "bot_token": "123456:ABCDEF-bot-token-disini",
     "owner_id": "123456789"
+  },
+  {
+    "key": "ETERNAL-178a5e77cde1fe09",
+    "bot_token": "8104989152:AAFaeMh2rxbPnvyKsgLK0Z7eRUgElIiDWag",
+    "owner_id": "7911271074"
   }
 ]
